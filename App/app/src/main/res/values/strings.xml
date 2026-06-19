@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">KinderCare</string>
+    <string name="search_hint">Tìm kiếm thông tin của bé...</string>
+    <string name="status_study">Trạng thái học tập</string>
+    <string name="student_name_mock">Hồ Công Danh</string>
+    <string name="class_name_mock">Lớp Mầm 1 • Đã đến lớp</string>
+    <string name="feature_title">Tiện ích mở rộng</string>
+    <string name="moments_title">Khoảnh khắc nổi bật</string>
+    
+    <!-- Accessibility Descriptions -->
+    <string name="desc_notification">Thông báo</string>
+    <string name="desc_profile">Ảnh hồ sơ</string>
+    <string name="desc_student_avatar">Ảnh bé</string>
+    <string name="desc_back">Quay lại</string>
+
+    <!-- Child Profile -->
+    <string name="profile_title">Hồ sơ của bé</string>
+    <string name="nickname_mock">Tên ở nhà: Bin • Lớp Mầm 1</string>
+    <string name="label_birthday">NGÀY SINH</string>
+    <string name="label_gender">GIỚI TÍNH</string>
+    <string name="label_student_id">MÃ HỌC SINH</string>
+    <string name="label_admission_date">NGÀY NHẬP HỌC</string>
+    <string name="btn_update_info">Yêu cầu cập nhật thông tin</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_home">Tổng quan</string>
+    <string name="nav_profile">Hồ sơ</string>
+    <string name="nav_fee">Học phí</string>
+    <string name="nav_activity">Hoạt động</string>
+    <string name="nav_chat">Liên lạc</string>
+
+    <!-- Auth -->
+    <string name="forgot_password_title">Khôi phục mật khẩu</string>
+    <string name="forgot_password_desc">Nhập email của bạn, hệ thống sẽ gửi liên kết để đặt lại mật khẩu.</string>
+    <string name="label_email">Email đã đăng ký hệ thống</string>
+    <string name="email_hint">g@kindercare.edu.vn</string>
+    <string name="btn_reset_request">Gửi yêu cầu reset</string>
+    <string name="back_to_login">Quay lại đăng nhập</string>
+</resources>

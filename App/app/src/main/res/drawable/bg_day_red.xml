@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-  
-</selector>
+<!-- Ô ngày nghỉ học màu đỏ (layout  lịch điểm danh)-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF0000"/>
+    <corners android:radius="4dp"/>
+</shape>
